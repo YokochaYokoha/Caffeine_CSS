@@ -40,7 +40,7 @@
 ### 1.CSS適用(ご自身のサーバーにアップしてから貼り付けます。ルートディレクトリに配置!)  
 Rev.1版  
 ```
-<link href="cuirev1.css" rel="stylesheeet"/>
+<link href="cuirev1.css" rel="stylesheet"/>
 ```
 
 ### 2.タイトル表示  
