@@ -26,21 +26,25 @@
 ```
 すれば、CSSが適用できます。  
 ## チートシート  
-楽がしたい方のために...こんなチートシートをご用意しました。コピペして御利用下さい!(未検証。間違いあるかも..)  
+楽がしたい方のためにチートシートをご用意しました。コピペして御利用下さい!(未検証。間違いあるかも..)  
 
 ### 1.CSS適用(ご自身のサーバーにアップしてから貼り付けます。ルートディレクトリに配置してね!)  
 Rev.1版  
-<link href="cuirev1.css" rel="stylesheeet"/>  
+```
+<link href="cuirev1.css" rel="stylesheeet"/>
+```
 
 ### 2.タイトル表示  
+```
 <div class="A">  
 <div class="align1">  
 <img src="" width="15%" height="15%">  
 <h1></h1>   
  </div>  
  </div>  
-
+```
 ### 3.B~Hまでのdiv  
+```
 <div class="B">  
 </div> 
 
@@ -72,4 +76,5 @@ Rev.1版
 <br>
 
 <div class="H">  
-</div>  
+</div>
+```
