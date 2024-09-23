@@ -28,7 +28,8 @@
 実装例  
 ![上の2つを使った例](./rei.png)  
 横茶横葉のサイトでは一部改変されていますが、フルに使っています。  
-https://yokochayokoha.github.io  
+活用例1:https://yokochayokoha.github.io  
+活用例2:https://yokochayokoha.github.io/anzu
 ## チートシート  
 楽がしたい方のためにチートシートをご用意しました。コピペして御利用下さい!(未検証。間違いあるかも..)  
 
