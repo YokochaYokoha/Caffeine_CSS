@@ -7,7 +7,7 @@
 Coffeeブラウザー(アプリ)のUI(ユーザーインターフェース)を参考に制作したCSSなので、CoffeeUI_CSSです(割とそのまんま)。  
 
 このスタイルシートには自由度の高い横茶横葉Aライセンスが適用されます。  
-https://yokochayokoha.github.io/alicense
+https://yokochayokoha.github.io/alicense  
 実装方法から活用例、チートシートまで下にいろいろ書いておきましたのでご活用ください!
 
 ## 使い方　　
