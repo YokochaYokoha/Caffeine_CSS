@@ -9,7 +9,7 @@
 最初のタイトル表示は以下のように設定します(もちろんコピペしてOK!)  
 ```html:title.html
         <div class="A">
-            <div class="align1">
+            <div class="title">
                  <img src="trademark.png" width="15%" height="15%"><!--ここのimg srcは変えてくださいね!-->
                  <h1>横茶横葉のサイト(ここはご自身のサイト名に!)</h1> 
             </div>
@@ -37,7 +37,7 @@ Rev.1版
 ### 2.タイトル表示  
 ```
 <div class="A">  
-<div class="align1">  
+<div class="title">  
 <img src="" width="15%" height="15%">  
 <h1></h1>   
  </div>  
