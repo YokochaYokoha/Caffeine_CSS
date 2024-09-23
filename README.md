@@ -36,7 +36,6 @@ https://yokochayokoha.github.io/alicense
 活用例1:https://yokochayokoha.github.io  
 あんずはあんずが食べたい! ページでは画像やテキストなどを挟みながら使用しています。  
 活用例2:https://yokochayokoha.github.io/anzu  
-![活用例](./katsuyorei.png)  
 上記サイトは全部htmlに埋め込んで使用していますが、チートシート(早見表のことです。下記記載)を使えば、簡単に実装できます。
 ## チートシート  
 楽がしたい方のためにチートシートをご用意しました。コピペして御利用下さい!(一部未検証。間違いあるかも..)  
