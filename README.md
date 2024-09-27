@@ -91,7 +91,7 @@ Rev.1版
 <div class="H">  
 </div>
 ```
-#### おまけ (これ、<small>でOKなのでどこかに書いてくれると、誰か(CSSで楽したい方)の助けになるかもしれないのでとっても嬉しいです! もちろん、書かなくても"全然OK"です!  あ、「全然」の言葉の使い方誰かに直されそう....)  
+#### おまけ (これ、smallタグでOKなのでどこかに書いてくれると、誰か(CSSで楽したい方)の助けになるかもしれないのでとっても嬉しいです! もちろん、書かなくても"全然OK"です! あ、「全然」の誤用法、誰かに直されそう....)  
 ```
 <p><small>このページでは<a href="https://github.com/YokochaYokoha/CoffeeUI_CSS">CoffeeUI_CSS</a>を使用しています。</small></p>  
 ```  
@@ -100,4 +100,4 @@ Rev.1版
 このCSSは個人的に楽するために作ったものですが、気が向いたら改善版や拡張版(色を増やす 等)、div大幅追加版(サブタイトル対応とか)をつくろうかなぁ って考えています!  
 あと、HTMLも枠組み書くのが面倒だったので軽いフレームワーク的なものをあげておきました。併せてご利用くださいね!  
 https://github.com/YokochaYokoha/blank_HTML_Template  
-徹底的に時短と楽をしよう! Time is like a precious thing, maybe!  
+徹底的に時短と楽がしたい! Time is like a precious thing, maybe!  
