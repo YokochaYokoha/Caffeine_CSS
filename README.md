@@ -1,5 +1,6 @@
 # CoffeeUI_CSS  
-![見た目大体こんな感じっていう画像](./hanrei.png)
+![見た目大体こんな感じっていう画像](./hanrei.png)  
+English translation(By machine translator) is available below!
 どなたでも気軽に利用(流用)できる横茶横葉のサイトのスタイルシートです!  
 Coffeeブラウザー(アプリメイン画面)で制作したUIをCSSで再現し、それをさらに改良しました。ここにあるのは作った後、使いやすい形に整えたものです!  
 色分けが簡単に行えるためサイトに彩りを添えることができます。  
@@ -101,3 +102,112 @@ Rev.1版
 あと、HTMLも枠組み書くのが面倒だったので軽いフレームワーク的なものをあげておきました。併せてご利用くださいね!  
 https://github.com/YokochaYokoha/blank_HTML_Template  
 徹底的に時短と楽がしたい! Time is like a precious thing, maybe!  
+
+---
+### English translation(By machine translator So, this may be a little bit strange.　Pls refer to the original Japanese description if you can.)  
+
+# CoffeeUI_CSS  
+![Image showing general appearance](./hanrei.png)  
+This is a stylesheet for my website that anyone can freely use (or modify)!  
+I recreated the UI I made in the Coffee browser (main app screen) using CSS and further improved it. What you see here is an organized version of what I originally made for easier use!  
+The good point is that you can easily add color to your website without much effort and quickly organize your site beautifully (probably)!  
+(Please note that this repository may disappear without notice, so I recommend uploading it to your server instead of directly linking to it when using it.)  
+Since this CSS is inspired by the UI of the Coffee browser (app), it's called CoffeeUI_CSS (quite straightforward).
+
+This stylesheet is subject to the Y.Yokoha A License, which imposes almost no restrictions and offers high freedom.  
+https://yokochayokoha.github.io/alicense  
+I've written down various instructions, usage examples, and a cheat sheet below, so feel free to make use of them!
+
+## How to Use  
+The initial title display is set as follows (of course, feel free to copy and paste!):  
+```html:title.html
+        <div class="A">
+            <div class="title">
+                 <img src="trademark.png" width="15%" height="15%"><!-- Replace this img src with your own!-->
+                 <h1>Yokochayokoha's Website (replace this with your own site name!)</h1> 
+            </div>
+       </div>
+```
+After that, div classes from B to H are available (as of Rev.1).  
+For example,  
+```html:contents.html
+        <div class="C"> <!-- You can change the color by specifying B to H here in place of "C". -->
+<h3>Notice</h3>
+<p>Site admin notices will be displayed here.</p><!-- Example usage -->
+<p>Currently, there are no notices.</p>
+</div>
+```
+and the CSS will be applied.  
+Example implementation:  
+![Example using the two elements above](./rei.png)  
+The site for Yokochayokoha uses this fully, although with some modifications.  
+Example 1: https://yokochayokoha.github.io  
+The "Anzu Wants to Eat Apricots!" page uses it while inserting images and text.  
+Example 2: https://yokochayokoha.github.io/anzu  
+The above sites embed everything directly into HTML, but you can easily implement it using the cheat sheet (quick reference sheet) below.
+
+## Cheat Sheet  
+For those who want to save time, here's a cheat sheet for your convenience. Feel free to copy and use it! (Some parts are unverified. There might be mistakes...)
+
+### 1. Applying CSS (Upload it to your server first, then paste it. Place it in the root directory!)  
+Rev.1 version:  
+```
+<link href="coffeeui.css" rel="stylesheet"/>
+```
+
+### 2. Title Display  
+```
+<div class="A">  
+<div class="title">  
+<img src="" width="15%" height="15%">  
+<h1></h1>   
+ </div>  
+ </div>  
+```
+
+### 3. Divs from B to H  
+```
+<div class="B">  
+</div> 
+
+<br>
+
+<div class="C">  
+</div>  
+
+<br>
+
+<div class="D">  
+</div>  
+
+<br>
+
+<div class="E">  
+</div>  
+
+<br>
+
+<div class="F">  
+</div>  
+
+<br>
+
+<div class="G">  
+</div>  
+
+<br>
+
+<div class="H">  
+</div>
+```
+
+#### Bonus (It’s just a small tag, so writing it somewhere might help someone who wants to save time with CSS! Of course, it’s okay if you don’t write it!  
+```
+<p><small>This page uses <a href="https://github.com/YokochaYokoha/CoffeeUI_CSS">CoffeeUI_CSS</a>.</small></p>  
+```
+
+### Future Plans and One More Thing  
+This CSS was made for personal convenience, but if I feel like it, I might release improved or extended versions (such as adding more colors, adding more divs, supporting subtitles, etc.)!  
+Additionally, since I found writing the HTML structure tedious, I’ve shared a lightweight framework-like template. Feel free to use it as well!  
+https://github.com/YokochaYokoha/blank_HTML_Template  
+I want to save as much time and effort as possible! Time is like a precious thing, maybe! 
