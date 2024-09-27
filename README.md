@@ -91,9 +91,9 @@ Rev.1版
 <div class="H">  
 </div>
 ```
-#### おまけ (これ、<small>でもOKなのでどこかに書いてくれると、誰か(CSSで楽したい方)の助けになるかもしれないのでとっても嬉しいです! もちろん、書かなくても"全然OK"です!  あ、「全然」の言葉の使い方誰かに直されそう....)  
+#### おまけ (これ、<small>でOKなのでどこかに書いてくれると、誰か(CSSで楽したい方)の助けになるかもしれないのでとっても嬉しいです! もちろん、書かなくても"全然OK"です!  あ、「全然」の言葉の使い方誰かに直されそう....)  
 ```
-このページでは<a href="https://github.com/YokochaYokoha/CoffeeUI_CSS">CoffeeUI_CSS</a>を使用しています。  
+<p><small>このページでは<a href="https://github.com/YokochaYokoha/CoffeeUI_CSS">CoffeeUI_CSS</a>を使用しています。</small></p>  
 ```  
 
 ### 今後の展望ともう一つ  
