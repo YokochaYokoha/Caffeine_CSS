@@ -1,6 +1,6 @@
 # CoffeeUI_CSS  
 ![見た目大体こんな感じっていう画像](./hanrei.png)  
-English translation(By machine translator) is available below!
+English translation(By machine translator) is available below!  
 どなたでも気軽に利用(流用)できる横茶横葉のサイトのスタイルシートです!  
 Coffeeブラウザー(アプリメイン画面)で制作したUIをCSSで再現し、それをさらに改良しました。ここにあるのは作った後、使いやすい形に整えたものです!  
 色分けが簡単に行えるためサイトに彩りを添えることができます。  
@@ -101,6 +101,8 @@ Rev.1版
 このCSSは個人的に楽するために作ったものですが、気が向いたら改善版や拡張版(色を増やす 等)、div大幅追加版(サブタイトル対応とか)をつくろうかなぁ って考えています!  
 あと、HTMLも枠組み書くのが面倒だったので軽いフレームワーク的なものをあげておきました。併せてご利用くださいね!  
 https://github.com/YokochaYokoha/blank_HTML_Template  
+2024/10/08追記:  
+全部入りのHTMLテンプレートもご用意しました!  
 徹底的に時短と楽がしたい! Time is like a precious thing, maybe!  
 
 ---
