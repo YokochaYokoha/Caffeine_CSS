@@ -3,11 +3,11 @@
 ![見た目大体こんな感じっていう画像](./hanrei.png)  
 English translation(By machine translator) is available below!  
 どなたでも気軽に利用(流用)できる横茶横葉のサイトのスタイルシートです!  
-Coffeeブラウザー(アプリメイン画面)で制作したUIをCSSで再現し、それをさらに改良しました。ここにあるのは作った後、使いやすい形に整えたものです!  
 色分けが簡単に行えるためサイトに彩りを添えることができます。  
 実装するのにさほど時間がかからず楽してサイトを綺麗に整頓できる(多分)のがいい点です!  
 (このリポジトリは予告なしに消滅することがありますので、使用時は直リンクを避け、ご自身のサーバーへアップロードすることをお勧めします。)  
-Coffeeブラウザー(アプリ)のUI(ユーザーインターフェース)を参考に制作したCSSなので、CoffeeUI_CSSです(割とそのまんま)。  
+飽きの来ないデザインを目指したかったので、Caffeine(カフェイン 眠気覚まし)です!  
+名称変更の理由は、ブラウザーと混同しないようにするためです!  
 
 このスタイルシートにはほとんど制約がなく、自由度の高い横茶横葉Aライセンスが適用されます。  
 https://yokochayokoha.github.io/alicense  
@@ -112,10 +112,9 @@ https://github.com/YokochaYokoha/blank_HTML_Template
 # Caffeine_CSS  
 ![Image showing general appearance](./hanrei.png)  
 This is a stylesheet for my website that anyone can freely use (or modify)!  
-I recreated the UI I made in the Coffee browser (main app screen) using CSS and further improved it. What you see here is an organized version of what I originally made for easier use!  
 The good point is that you can easily add color to your website without much effort and quickly organize your site beautifully (probably)!  
 (Please note that this repository may disappear without notice, so I recommend uploading it to your server instead of directly linking to it when using it.)  
-Since this CSS is inspired by the UI of the Coffee browser (app), it's called CoffeeUI_CSS (quite straightforward).
+
 
 This stylesheet is subject to the Y.Yokoha A License, which imposes almost no restrictions and offers high freedom.  
 https://yokochayokoha.github.io/alicense  
