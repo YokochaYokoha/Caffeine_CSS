@@ -1,4 +1,5 @@
-# CoffeeUI_CSS  
+# CaffeineUI_CSS  
+## 2024/10/21 名称変更を行いました。  
 ![見た目大体こんな感じっていう画像](./hanrei.png)  
 English translation(By machine translator) is available below!  
 どなたでも気軽に利用(流用)できる横茶横葉のサイトのスタイルシートです!  
@@ -45,7 +46,7 @@ https://yokochayokoha.github.io/alicense
 ### 1.CSS適用(ご自身のサーバーにアップしてから貼り付けます。ルートディレクトリに配置!)  
 Rev.1版  
 ```
-<link href="coffeeui.css" rel="stylesheet"/>
+<link href="caffeine.css" rel="stylesheet"/>
 ```
 
 ### 2.タイトル表示  
@@ -94,7 +95,7 @@ Rev.1版
 ```
 #### おまけ (これ、smallタグでOKなのでどこかに書いてくれると、誰か(CSSで楽したい方)の助けになるかもしれないのでとっても嬉しいです! もちろん、書かなくても"全然OK"です! あ、「全然」の誤用法、誰かに直されそう....)  
 ```
-<p><small>このページでは<a href="https://github.com/YokochaYokoha/CoffeeUI_CSS">CoffeeUI_CSS</a>を使用しています。</small></p>  
+<p><small>このページでは<a href="https://github.com/YokochaYokoha/Caffeine_CSS">Caffeine_CSS</a>を使用しています。</small></p>  
 ```  
 
 ### 今後の展望ともう一つ  
@@ -108,7 +109,7 @@ https://github.com/YokochaYokoha/blank_HTML_Template
 ---
 ### English translation(By machine translator So, this may be a little bit strange.　Pls refer to the original Japanese description if you can.)  
 
-# CoffeeUI_CSS  
+# Caffeine_CSS  
 ![Image showing general appearance](./hanrei.png)  
 This is a stylesheet for my website that anyone can freely use (or modify)!  
 I recreated the UI I made in the Coffee browser (main app screen) using CSS and further improved it. What you see here is an organized version of what I originally made for easier use!  
@@ -154,7 +155,7 @@ For those who want to save time, here's a cheat sheet for your convenience. Feel
 ### 1. Applying CSS (Upload it to your server first, then paste it. Place it in the root directory!)  
 Rev.1 version:  
 ```
-<link href="coffeeui.css" rel="stylesheet"/>
+<link href="caffeine.css" rel="stylesheet"/>
 ```
 
 ### 2. Title Display  
@@ -205,7 +206,7 @@ Rev.1 version:
 
 #### Bonus (It’s just a small tag, so writing it somewhere might help someone who wants to save time with CSS! Of course, it’s okay if you don’t write it!  
 ```
-<p><small>This page uses <a href="https://github.com/YokochaYokoha/CoffeeUI_CSS">CoffeeUI_CSS</a>.</small></p>  
+<p><small>This page uses <a href="https://github.com/YokochaYokoha/Caffeine_CSS">Caffeine_CSS</a>.</small></p>  
 ```
 
 ### Future Plans and One More Thing  
